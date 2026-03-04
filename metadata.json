@@ -1,0 +1,7 @@
+{
+  "name": "MindGuard AI - Employee Well-being Monitor",
+  "description": "A sophisticated AI-powered system that monitors employee emotions and mental states through real-time facial gesture analysis, providing insights into workplace wellness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
